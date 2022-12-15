@@ -1,6 +1,6 @@
 # **WCYB - Projekt nr 2 - Testy bezpieczeństwa**
 
-**Autorzy**: Adrian Zalewski [gr.104], Wiktor Zawadzki [gr.104]
+
 
 - [**WCYB - Projekt nr 2 - Testy bezpieczeństwa**](#wcyb---projekt-nr-2---testy-bezpieczeństwa)
   - [**Cele zadania**](#cele-zadania)
