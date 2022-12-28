@@ -9,3 +9,4 @@ Obecnie złamane maszyny:
 * **Empire Breakout** - Poziom Trudności: **Łatwy**
 * **Kioptrix-1** - Poziom Trudności: **Łatwy**
 * **DC-1** - Poziom Trudności: **Łatwy**
+* **Empire Lupinone** - Poziom Trudności: **Średni**
