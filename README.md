@@ -1,8 +1,8 @@
-# **VulnHub CTF's**
+# **CTFs**
 
 ## Opis zawartości repozytorium
 
-Repozytoirum zawiera instrukcje jak łamać poszczególne maszyny znajdujące się na serwisie [VulnHub](https://www.vulnhub.com/).
+Repozytoirum zawiera instrukcje jak łamać poszczególne maszyny z różnych serwisów.
 
 Obecnie złamane maszyny:
 * **DarkHole** - Poziom Trudności: **Łatwy/Średni**
@@ -10,3 +10,4 @@ Obecnie złamane maszyny:
 * **Kioptrix-1** - Poziom Trudności: **Łatwy**
 * **DC-1** - Poziom Trudności: **Łatwy**
 * **Empire Lupinone** - Poziom Trudności: **Średni**
+* **Vulnserver** - Poziom Trudności: **Łatwy**
