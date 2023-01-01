@@ -11,3 +11,4 @@ Obecnie złamane maszyny:
 * **DC-1** - Poziom Trudności: **Łatwy**
 * **Empire Lupinone** - Poziom Trudności: **Średni**
 * **Vulnserver** - Poziom Trudności: **Łatwy**
+* **Beelzebub** - Poziom Trudności: **Łatwy**
