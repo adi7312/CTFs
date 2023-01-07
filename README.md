@@ -12,3 +12,4 @@ Obecnie złamane maszyny:
 * **Empire Lupinone** - Poziom Trudności: **Średni**
 * **Vulnserver** - Poziom Trudności: **Łatwy**
 * **Beelzebub** - Poziom Trudności: **Łatwy**
+* **BlueSky** - Poziom Trudności: **Łatwy**
