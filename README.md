@@ -13,3 +13,4 @@ Obecnie złamane maszyny:
 * **Vulnserver** - Poziom Trudności: **Łatwy**
 * **Beelzebub** - Poziom Trudności: **Łatwy**
 * **BlueSky** - Poziom Trudności: **Łatwy**
+* **CyberDefenders** - Poziom Trudności: łatwy
