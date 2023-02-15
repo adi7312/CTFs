@@ -13,4 +13,4 @@ Obecnie złamane maszyny:
 * **Vulnserver** - Poziom Trudności: **Łatwy**
 * **Beelzebub** - Poziom Trudności: **Łatwy**
 * **BlueSky** - Poziom Trudności: **Łatwy**
-* **CyberDefenders** - Poziom Trudności: łatwy
+* [**CyberDefenders** - Poziom Trudności: łatwy](https://adi7312.github.io/CTFs/CyberDefenders%20-%20Malware%20Traffic%20Analysis%205/)
