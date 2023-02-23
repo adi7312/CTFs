@@ -14,4 +14,5 @@ Obecnie złamane maszyny:
 * [**Beelzebub** - Poziom Trudności: **Łatwy**](https://adi7312.github.io/CTFs/Vulnhub%20-%20Beelzebub/)
 * [**BlueSky** - Poziom Trudności: **Łatwy**](https://adi7312.github.io/CTFs/VulnHub%20-%20BlueSky/)
 * [**CyberDefenders** - Poziom Trudności: **Łatwy**](https://adi7312.github.io/CTFs/CyberDefenders%20-%20Malware%20Traffic%20Analysis%205/)
-* [**THM - Vulnversity** - Poziom Trudności: **Łatwy**](https://adi7312.github.io/CTFs/THM%20-%20Vulnversity/)
+* [**THM - Vulnversity** - Poziom Trudności: **Łatwy**](https://adi7312.github.io/CTFs/THM-Vulnversity/)
+* [**THM - Blue** - Poziom Trudności: **Łatwy**](https://adi7312.github.io/CTFs/THM-%20Blue/)
