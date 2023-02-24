@@ -4,7 +4,7 @@
 
 This repository contains walktroughs of some CTFs from various platfroms like THM, VulnHub, CyberDefenders etc. For now most of walktroughs are in polish language, but the next CTFs will be posted in english language. 
 
-Next to name of CTF I placed information about difficulty of that CTF, but this is only my opininion about level of difficulty (for example CTF X could be easy for me, but unnecessarly easy for you).
+Next to name of CTF I placed information about difficulty of that CTF, but this is only my opininion about level of difficulty (for example CTF X could be easy for me, but not necessarly easy for you).
 
 Walktroughs (PL):
 * [**DarkHole** - Poziom Trudności: **Łatwy/Średni**](https://adi7312.github.io/CTFs/VulnHub%20-%20DarkHole/)
