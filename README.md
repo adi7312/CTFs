@@ -23,4 +23,4 @@ Walktroughs (PL):
 Walktroughs (EN):
 
 * [**THM-Kenobi** - Difficulty: **Easy**](https://adi7312.github.io/CTFs/THM-Kenobi/)
-* [**Cyberdefenders - Malware Traffic Analysis 2**] - coming soon
+* [**Cyberdefenders - Malware Traffic Analysis 2** - Difficulty: **Medium**](https://adi7312.github.io/CTFs/CyberDefender%20-%20Malware%20Traffic%20Analysis%202)
